@@ -1,0 +1,1 @@
+console.log("maths tut on js");
